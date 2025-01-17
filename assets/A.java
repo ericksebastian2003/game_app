@@ -29,4 +29,5 @@ Tareas y banderas útiles de Gradle:
 - `test`: ejecuta pruebas unitarias (si las hay).
 
 ##Autor
-Erick Caiza
+- Erick Caiza
+    -  Francisco Caero
